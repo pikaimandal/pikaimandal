@@ -3,14 +3,11 @@
 
 <p align="center"> <a href="https://twitter.com/mrpikai" target="blank"><img src="https://img.shields.io/twitter/follow/mrpikai?logo=twitter&style=for-the-badge" alt="mrpikai" /></a> </p>
 
-- 🌐Know more about me at [https://pikaimandal.com](https://pikaimandal.com)
+- 🌐Know more about me at [https://pikaimandal.com](https://pikaimandal.com)    - ✉️Reach me at **pikaimandal@proton.me**
 
-- ✉️Reach me at **pikaimandal@proton.me**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/pikaimandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pikaimandal" height="30" width="40" /></a>
-<a href="https://dev.to/pikai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pikai" height="30" width="40" /></a>
+<h3 align="left">Connect with me on:</h3>
+<p align="center">
 <a href="https://twitter.com/mrpikai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpikai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pikaimandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pikaimandal" height="30" width="40" /></a>
 </p>
