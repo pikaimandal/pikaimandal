@@ -1,13 +1,11 @@
 <h1 align="center">Hello 👋, I'm Pikai Mandal</h1>
 <h3 align="center">A passionate Entrepreneur, Blockchain & Crypto Enthusiast, Web Developer, and AI explorer. Love Ethereum and like to explore more about the Space.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pikaimandal&label=Profile%20views&color=0e75b6&style=flat" alt="pikaimandal" /> </p>
-
 <p align="center"> <a href="https://twitter.com/mrpikai" target="blank"><img src="https://img.shields.io/twitter/follow/mrpikai?logo=twitter&style=for-the-badge" alt="mrpikai" /></a> </p>
 
-- Know more about me at [https://pikaimandal.com](https://pikaimandal.com)
+- 🌐Know more about me at [https://pikaimandal.com](https://pikaimandal.com)
 
-- 📫Reach me at **pikaimandal@proton.me**
+- ✉️Reach me at **pikaimandal@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
