@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Pikai Mandal</h1>
-<h3 align="center">A passionate Entrepreneur, Blockchain & Crypto Enthusiast, Web Developer, and Artificial Intelligence. Love Ethereum and like to explore more about the Space.</h3>
+<h3 align="center">A passionate Entrepreneur, Blockchain & Crypto Enthusiast, Web Developer, and AI explorer. Love Ethereum and like to explore more about the Space.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pikaimandal&label=Profile%20views&color=0e75b6&style=flat" alt="pikaimandal" /> </p>
 
