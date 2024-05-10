@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pikaimandal&label=Profile%20views&color=0e75b6&style=flat" alt="pikaimandal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrpikai" target="blank"><img src="https://img.shields.io/twitter/follow/mrpikai?logo=twitter&style=for-the-badge" alt="mrpikai" /></a> </p>
-
-- 🔭 I’m currently working on [@Vidlook](https://github.com/vidlook)
-
-- 👯 I’m looking to collaborate on [@Bitovo](https://github.com/bitovo)
-
-- 🤝 I’m looking for help with [@Blockbase](https://github.com/blockbaseinc)
+<p align="center"> <a href="https://twitter.com/mrpikai" target="blank"><img src="https://img.shields.io/twitter/follow/mrpikai?logo=twitter&style=for-the-badge" alt="mrpikai" /></a> </p>
 
 - Know more about me at [https://pikaimandal.com](https://pikaimandal.com)
 
