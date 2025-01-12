@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Pikai Mandal</h1>
-<h3 align="center">A passionate Blockchain, AI & Crypto Enthusiast, Web Developer, Metaverse explorer. Love Ethereum and like to know more about Space.</h3>
+<h3 align="center">A passionate Crypto, AI & Blockchain Enthusiast, Web Developer, Metaverse explorer. Love Ethereum and like to know more about Space.</h3>
 
 <p align="center"> <a href="https://twitter.com/mrpikai" target="blank"><img src="https://img.shields.io/twitter/follow/mrpikai?logo=twitter&style=for-the-badge" alt="mrpikai" /></a> </p>
 
