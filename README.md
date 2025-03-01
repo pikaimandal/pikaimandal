@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/mrpikai" target="blank"><img src="https://img.shields.io/twitter/follow/mrpikai?logo=twitter&style=for-the-badge" alt="mrpikai" /></a> </p>
 
-- 🌐Know more about me at [https://pikaimandal.com](https://pikaimandal.com)    - ✉️Reach me at **pikaimandal@proton.me**
+- 🌐Know more about me at [https://pikai.net](https://pikai.net)    - ✉️Reach me at **pikaimandal@proton.me**
 
 
 <h3 align="left">Connect with me on:</h3>
