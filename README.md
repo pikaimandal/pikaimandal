@@ -5,7 +5,7 @@
 
 - 🌐Know more about me at [https://pikaimandal.com](https://pikaimandal.com)    - ✉️Reach me at **pikaimandal@proton.me**
 
-<h3 align="left">Built Score (64K+ users) & InstaINR (1k+)</h3>
+<h3 align="left">Built Score (64K+ users) & InstaINR (1k+ users)</h3>
 <p align="center">
 <a href="https://world.org/ecosystem/app_fa8974b2c77a879724c770556d4a9451" target="_blank"><img align="center" src="https://world-id-assets.com/app_fa8974b2c77a879724c770556d4a9451/90229086-1ae9-413f-8765-9950ad737d31.png" alt="worldscore" height="70" width="70" /></a>
 <a href="https://world.org/ecosystem/app_6811ab7004517cd06ae16aeca5c9325a" target="blank"><img align="center" src="https://world-id-assets.com/app_6811ab7004517cd06ae16aeca5c9325a/bbfdc6a8-9da3-4b0b-90e0-74544e11e5e5.png" alt="instainr" height="70" width="70" /></a>
